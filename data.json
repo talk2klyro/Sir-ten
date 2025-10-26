@@ -1,0 +1,34 @@
+{
+  "name": "Aminu Sulaiman",
+  "title": "Medical Laboratory Tutor",
+  "photo": "https://images.unsplash.com/photo-1581093588401-22e8c5f6c3b3?crop=faces&fit=crop&w=400&h=400",
+  "location": "Sokoto State, Nigeria",
+  "education": {
+    "institution": "Sokoto State College of Health Sciences and Technology",
+    "degree": "Diploma in Medical Laboratory Technology",
+    "graduationYear": 2025
+  },
+  "bio": "Aminu Sulaiman is a passionate laboratory science tutor who believes that accuracy and ethics are the backbone of every diagnostic result. He trains health students to master laboratory safety, specimen handling, and diagnostic reasoning for effective healthcare delivery.",
+  "skills": [
+    "Clinical Chemistry",
+    "Hematology",
+    "Microbiology",
+    "Diagnostic Techniques",
+    "Laboratory Safety"
+  ],
+  "testimonials": [
+    {
+      "name": "Zainab Abdullahi",
+      "comment": "Mr. Aminu explains lab procedures clearly and emphasizes hands-on practice, which boosts our confidence."
+    },
+    {
+      "name": "Ibrahim Garba",
+      "comment": "A great mentor who ensures every student understands both the science and responsibility behind lab work."
+    }
+  ],
+  "socials": {
+    "linkedin": "https://linkedin.com/in/aminu-sulaiman",
+    "email": "mailto:aminu.sulaiman@consultancyfirm.ng",
+    "whatsapp": "https://wa.me/2348034567890"
+  }
+}
