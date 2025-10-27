@@ -1,16 +1,34 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Aminu Sulaiman | Professional Tutor</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Aminu Sulaiman | Consultant Profile</title>
   <script src="https://cdn.tailwindcss.com"></script>
+  <script defer src="app.js"></script>
 </head>
-<body class="bg-gray-50 text-gray-800 font-sans">
+<body id="body" class="min-h-screen flex flex-col items-center justify-center text-white font-sans transition-all duration-700">
 
-  <!-- Profile Container -->
-  <main id="tutor-profile" class="max-w-5xl mx-auto p-6"></main>
+  <div class="w-full min-h-screen bg-black/90 backdrop-blur-sm flex flex-col items-center justify-center p-6 text-center">
+    <!-- Profile Header -->
+    <div id="photo-container" class="w-32 h-32 mb-4 rounded-full overflow-hidden border-4 border-emerald-500 shadow-lg"></div>
+    <h1 id="name" class="text-3xl font-bold mb-1"></h1>
+    <h2 id="role" class="text-lg text-emerald-400 mb-4"></h2>
 
-  <script src="app.js"></script>
+    <!-- Bio Section -->
+    <p id="bio" class="max-w-3xl text-gray-200 text-sm md:text-base leading-relaxed mb-8"></p>
+
+    <!-- Info Cards -->
+    <div id="cards" class="grid md:grid-cols-2 gap-6 w-full max-w-5xl mt-4"></div>
+
+    <!-- Button -->
+    <a id="profile-btn" target="_blank" class="mt-8 px-8 py-3 bg-emerald-600 hover:bg-emerald-500 rounded-xl font-semibold text-white shadow-md transition">
+      Visit Profile
+    </a>
+
+    <!-- Socials -->
+    <div id="socials" class="flex justify-center mt-6 space-x-6"></div>
+  </div>
+
 </body>
 </html>
