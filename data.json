@@ -1,34 +1,40 @@
 {
   "name": "Aminu Sulaiman",
-  "title": "Medical Laboratory Tutor",
-  "photo": "https://images.unsplash.com/photo-1581093588401-22e8c5f6c3b3?crop=faces&fit=crop&w=400&h=400",
-  "location": "Sokoto State, Nigeria",
-  "education": {
-    "institution": "Sokoto State College of Health Sciences and Technology",
-    "degree": "Diploma in Medical Laboratory Technology",
-    "graduationYear": 2025
+  "role": "Community Health Extension Workers (CHEW)",
+  "photo": "https://i.postimg.cc/g01DnKcd/Black-and-Green-Modern-Minimalist-Consultancy-Business-Logo-20251017-004347-0000.png",
+  "button_url": "https://ceo-talk2health.vercel.app",
+  "theme": {
+    "primary": "#065F46",
+    "secondary": "#E6F4EA",
+    "accent": "#10B981",
+    "gradient": "linear-gradient(135deg, #000000, #065F46)"
   },
-  "bio": "Aminu Sulaiman is a passionate laboratory science tutor who believes that accuracy and ethics are the backbone of every diagnostic result. He trains health students to master laboratory safety, specimen handling, and diagnostic reasoning for effective healthcare delivery.",
-  "skills": [
-    "Clinical Chemistry",
-    "Hematology",
-    "Microbiology",
-    "Diagnostic Techniques",
-    "Laboratory Safety"
-  ],
-  "testimonials": [
+  "bio": "Aminu Sulaiman is a forward-thinking Public Health Consultant and strategic planner known for blending modern data insights with community realities. A graduate with a vision to reform Nigeria’s preventive healthcare structure, Aminu has been instrumental in developing outreach models and youth mentorship systems under the Consultancy Firm’s research wing. His approach combines health education, digital communication, and behavioral insights — shaping a new era of local health advocacy that connects professionals with purpose.",
+  "cards": [
     {
-      "name": "Zainab Abdullahi",
-      "comment": "Mr. Aminu explains lab procedures clearly and emphasizes hands-on practice, which boosts our confidence."
+      "title": "Key Competencies",
+      "content": "Public Health Planning, Data-driven Communication, Program Evaluation, and Strategic Consultancy."
     },
     {
-      "name": "Ibrahim Garba",
-      "comment": "A great mentor who ensures every student understands both the science and responsibility behind lab work."
+      "title": "Major Projects",
+      "content": "Developed the 'Community Pulse' framework — a local data insight system for mapping rural health behavior. Led digital outreach strategies for youth health initiatives in Northern Nigeria."
+    },
+    {
+      "title": "Leadership & Research",
+      "content": "Conducted studies on the impact of culturally adaptive communication in health promotion. Co-authored consultancy reports for Talk2Health network and emerging partners."
+    },
+    {
+      "title": "Philosophy",
+      "content": "Aminu believes that lasting health change begins with systems thinking — understanding people, places, and perception. His work bridges field realities with evidence-based strategies."
+    },
+    {
+      "title": "Vision Ahead",
+      "content": "To strengthen the Consultancy Firm’s capacity for AI-assisted community diagnosis and enhance inter-state collaboration for health educators across Nigeria."
     }
   ],
   "socials": {
-    "linkedin": "https://linkedin.com/in/aminu-sulaiman",
-    "email": "mailto:aminu.sulaiman@consultancyfirm.ng",
-    "whatsapp": "https://wa.me/2348034567890"
+    "facebook": "https://facebook.com/",
+    "instagram": "https://instagram.com/",
+    "x": "https://x.com/"
   }
 }
